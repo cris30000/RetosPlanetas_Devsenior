@@ -28,14 +28,6 @@ Este proyecto es un simulador interactivo de viajes espaciales que permite a los
 2. Selecciona un planeta destino del menú
 3. Elige una nave espacial
 4. Inicia la simulación del vuelo
-
-## Estructura del Proyecto
-
-- `src/`: Contiene el código fuente
-  - `appRetoPlanetas.java`: Clase principal del programa
-- `lib/`: Carpeta para dependencias
-- `bin/`: Archivos compilados
-
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Por favor, siente libre de:
