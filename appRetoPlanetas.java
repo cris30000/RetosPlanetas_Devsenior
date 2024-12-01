@@ -1,6 +1,6 @@
 
 //RETO 1 DE JAVA 
-// Elaborado por Cristina Samboni Sandoval , Yorman Gomez .
+// Elaborado por Cristina Samboni Sandoval , Yorman Gomez . ver
 import java.util.Random;
 import java.util.Scanner;
 
