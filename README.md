@@ -12,7 +12,7 @@ Este proyecto es un simulador interactivo de viajes espaciales que permite a los
 
 ## Tecnologías Utilizadas
 
-- Java
+- Java.
 - Scanner para entrada de usuario
 - Estructuras de datos Arrays
 - Control de versiones con Git
