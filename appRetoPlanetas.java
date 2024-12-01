@@ -72,7 +72,7 @@ public class appRetoPlanetas {
         final String ANSI_RED = "\u001B[31m";
 
         System.out.println(ANSI_CYAN + "\n----------- MENÚ PRINCIPAL -----------" + ANSI_RESET);
-        System.out.println(ANSI_BLUE + "1." + ANSI_RESET + " Seleccionar un planeta de destino");
+        System.out.println(ANSI_RED + "1." + ANSI_RESET + " Seleccionar un planeta de destino");
         System.out.println("2. Seleccionar una nave espacial");
         System.out.println("3. Calcular distancia y gestionar recursos");
         System.out.println("4. Mostrar datos seleccionados");
@@ -82,6 +82,8 @@ public class appRetoPlanetas {
         System.out.print(ANSI_BLUE + "Por favor elige una opción: ");
     }
 
+    // Funcio para selleccionar planeta se utiliza un ciclo for con un iterador i y
+    // se va incrementando
     public static void seleccionarPlaneta() {
         System.out.println("\n--- PLANETAS DISPONIBLES ---");
         for (int i = 0; i < planetas.length; i++) {
